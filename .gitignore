@@ -32,4 +32,6 @@
 *.app
 
 # Mine
+.idea
+cmake-build-debug
 

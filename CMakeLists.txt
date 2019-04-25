@@ -16,7 +16,7 @@ INCLUDE_DIRECTORIES(
 
 add_subdirectory(test)
 
-add_executable(2048 ${SOURCE_FILES} main.cpp)
+add_executable(2048 ${SOURCE_FILES} rungame.cpp)
 
 
 

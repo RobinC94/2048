@@ -34,4 +34,4 @@
 # Mine
 *.xml
 *.cmake
-*/xml
+*.make

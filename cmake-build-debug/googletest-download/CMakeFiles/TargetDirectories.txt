@@ -1,0 +1,3 @@
+/Users/robin.chen/ClionProjects/2048/cmake-build-debug/googletest-download/CMakeFiles/rebuild_cache.dir
+/Users/robin.chen/ClionProjects/2048/cmake-build-debug/googletest-download/CMakeFiles/edit_cache.dir
+/Users/robin.chen/ClionProjects/2048/cmake-build-debug/googletest-download/CMakeFiles/googletest-download.dir

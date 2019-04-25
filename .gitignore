@@ -32,6 +32,4 @@
 *.app
 
 # Mine
-*.xml
-*.cmake
-*.make
+

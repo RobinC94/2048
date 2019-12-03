@@ -8,3 +8,7 @@ My 2048 game running in cmd with C++
 :x: Linux
 
 :x: Windows
+
+## Guide
+Use w a s d to move, q to exit.
+
